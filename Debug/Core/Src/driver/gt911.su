@@ -1,0 +1,7 @@
+../Core/Src/driver/gt911.c:22:6:gt911Init	32	static
+../Core/Src/driver/gt911.c:60:6:gt911InitRegs	208	static
+../Core/Src/driver/gt911.c:167:6:readRegs	48	static
+../Core/Src/driver/gt911.c:181:6:writeRegs	48	static
+../Core/Src/driver/gt911.c:196:10:gt911GetWidth	4	static
+../Core/Src/driver/gt911.c:201:10:gt911GetHeight	4	static
+../Core/Src/driver/gt911.c:206:6:gt911GetInfo	56	static

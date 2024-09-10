@@ -1,0 +1,7 @@
+../Core/Src/driver/gt911.c:22:6:gt911Init	3
+../Core/Src/driver/gt911.c:60:6:gt911InitRegs	2
+../Core/Src/driver/gt911.c:167:6:readRegs	2
+../Core/Src/driver/gt911.c:181:6:writeRegs	2
+../Core/Src/driver/gt911.c:196:10:gt911GetWidth	1
+../Core/Src/driver/gt911.c:201:10:gt911GetHeight	1
+../Core/Src/driver/gt911.c:206:6:gt911GetInfo	7

@@ -1,0 +1,4 @@
+../Core/Src/driver/st7701.c:13:6:st7701Init	1
+../Core/Src/driver/st7701.c:19:6:st7701InitRegs	1
+../Core/Src/driver/st7701.c:255:6:st7701WriteCmd	1
+../Core/Src/driver/st7701.c:269:6:st7701WriteData	1
